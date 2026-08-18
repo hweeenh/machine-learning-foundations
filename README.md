@@ -13,7 +13,7 @@ A practical exploration of foundational machine learning concepts using Python a
 
 ## Approach
 
-Each notebook focuses on understanding the underlying concept of each topics, exploring a real-world dataset, implementing the method in Python, and interpreting the results.
+Each notebook focuses on understanding the underlying concept of each topics, exploring a real-world dataset, implementing the method in Python, interpreting the results, and understanding its practical limitations
 
 ## Tools
 - Python
