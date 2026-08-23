@@ -15,3 +15,6 @@ __pycache__/
 
 # VS Code
 .vscode/
+
+# Datasets
+02_Logistic Regression/wdbc.csv
